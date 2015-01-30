@@ -1,6 +1,3 @@
-[submodule "pathogen"]
-	path = /home/leigh/.vim
-	url = https://github.com/tpope/vim-pathogen.git
 [submodule ".vim"]
 	path = .vim
 	url = https://github.com/tpope/vim-pathogen
@@ -16,3 +13,9 @@
 [submodule ".vim-bundle/vim-airline"]
 	path = .vim-bundle/vim-airline
 	url = https://github.com/bling/vim-airline
+[submodule ".fonts/powerline"]
+	path = .fonts/powerline
+	url = https://github.com/powerline/fonts
+[submodule ".oh-my-zsh"]
+	path = .oh-my-zsh
+	url = https://github.com/robbyrussell/oh-my-zsh
