@@ -1,4 +1,4 @@
-execute pathogen#infect('~/.vim-bundles/{}')
+execute pathogen#infect('~/.vim-bundle/{}')
 
 syntax on
 filetype plugin indent on
